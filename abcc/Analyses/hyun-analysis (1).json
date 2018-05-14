@@ -1,0 +1,22 @@
+{
+    "description": "",
+    "inputs": [
+        {
+            "format": "rows",
+            "id": "inputtable",
+            "name": "inputable_assign",
+            "type": "table"
+        }
+    ],
+    "mode": "python",
+    "name": "hyun-analysis",
+    "outputs": [
+        {
+            "format": "rows",
+            "id": "outputtable",
+            "name": "output table-assigned",
+            "type": "table"
+        }
+    ],
+    "script": "outputtable = inputtable"
+}

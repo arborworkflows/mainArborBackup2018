@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "inputs": [
+        {
+            "format": "csv",
+            "id": "intable2",
+            "name": "intable2-fancy-name",
+            "type": "table"
+        }
+    ],
+    "mode": "python",
+    "name": "curt-table-pt",
+    "outputs": [
+        {
+            "description": "secription",
+            "format": "rows",
+            "id": "outable",
+            "name": "fancy output of a table",
+            "type": "table"
+        }
+    ],
+    "script": "outable = intable2"
+}

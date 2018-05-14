@@ -1,0 +1,105 @@
+{
+    "connections": [
+        {
+            "input": "inputtable",
+            "input_step": "hyun-analysis 2",
+            "output": "outputtable",
+            "output_step": "hyun-analysis"
+        },
+        {
+            "name": "output table-assigned",
+            "output": "outputtable",
+            "output_step": "hyun-analysis 2"
+        },
+        {
+            "input": "inputtable",
+            "input_step": "hyun-analysis",
+            "name": "inputable_assign"
+        }
+    ],
+    "description": "",
+    "inputs": [
+        {
+            "format": "rows",
+            "id": "inputable_assign",
+            "name": "inputable_assign",
+            "type": "table",
+            "x": 24,
+            "y": 113
+        }
+    ],
+    "mode": "workflow",
+    "name": "hyun-analysis",
+    "outputs": [
+        {
+            "format": "rows",
+            "id": "output table-assigned",
+            "name": "output table-assigned",
+            "type": "table",
+            "x": 816,
+            "y": 319
+        }
+    ],
+    "steps": [
+        {
+            "girderId": "5a315a3854cdbf077f6de179",
+            "modified": "2017-12-13T16:55:29.678969+00:00",
+            "name": "hyun-analysis 2",
+            "task": {
+                "description": "",
+                "inputs": [
+                    {
+                        "format": "rows",
+                        "id": "inputtable",
+                        "name": "inputable_assign",
+                        "type": "table"
+                    }
+                ],
+                "mode": "python",
+                "name": "hyun-analysis",
+                "outputs": [
+                    {
+                        "format": "rows",
+                        "id": "outputtable",
+                        "name": "output table-assigned",
+                        "type": "table"
+                    }
+                ],
+                "script": "outputtable = inputtable"
+            },
+            "visualization": false,
+            "x": 516,
+            "y": 319
+        },
+        {
+            "girderId": "5a315a3854cdbf077f6de179",
+            "modified": "2017-12-13T16:55:29.678969+00:00",
+            "name": "hyun-analysis",
+            "task": {
+                "description": "",
+                "inputs": [
+                    {
+                        "format": "rows",
+                        "id": "inputtable",
+                        "name": "inputable_assign",
+                        "type": "table"
+                    }
+                ],
+                "mode": "python",
+                "name": "hyun-analysis",
+                "outputs": [
+                    {
+                        "format": "rows",
+                        "id": "outputtable",
+                        "name": "output table-assigned",
+                        "type": "table"
+                    }
+                ],
+                "script": "outputtable = inputtable"
+            },
+            "visualization": false,
+            "x": 226,
+            "y": 293
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "description": "",
+    "inputs": [
+        {
+            "format": "rows",
+            "id": "intable2",
+            "name": "intable2-fancy-name-to-make can have spaces",
+            "type": "table"
+        }
+    ],
+    "mode": "python",
+    "name": "curts-table-passthrough",
+    "outputs": [
+        {
+            "description": "description of the output ",
+            "format": "rows",
+            "id": "outable",
+            "name": "fancy output of a table",
+            "type": "table"
+        }
+    ],
+    "script": "outable = intable2"
+}
