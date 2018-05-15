@@ -1,0 +1,1 @@
+{"description": "", "inputs": [{"format": "text", "id": "input1", "name": "input1", "type": "string"}], "mode": "r", "name": "dummy1", "outputs": [{"format": "text", "id": "output1", "name": "output1", "type": "string"}], "script": "hello <- \"world\"\n\noutput1 <- \"dummy\""}

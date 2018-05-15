@@ -1,0 +1,1 @@
+{"description": "", "inputs": [{"description": "object", "format": "object", "id": "input", "name": "input", "type": "python"}], "mode": "python", "name": "python-io-test", "outputs": [], "script": "#hi\nprint input "}

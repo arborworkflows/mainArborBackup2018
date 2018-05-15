@@ -1,0 +1,1 @@
+{"description": "", "inputs": [{"description": "input graph in GraphML format", "format": "graphml", "id": "ingraph", "name": "ingraph", "type": "graph"}], "mode": "python", "name": "graphTest", "outputs": [], "script": ""}

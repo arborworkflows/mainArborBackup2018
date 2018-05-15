@@ -1,0 +1,1 @@
+{"description": "", "inputs": [], "mode": "r", "name": "r-installed-packages", "outputs": [{"format": "r.dataframe", "id": "table", "name": "packages", "type": "table"}], "script": "table <- installed.packages()\n"}

@@ -1,0 +1,36 @@
+object_type,project_id,subject_label,session_type,session_label,as_label,as_type,as_description,as_quality,resource,filepath
+scan,Ratio,LG0904F1496-m210-1,MR,541431038,501,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m210-1/00013526/00058733/04402131.dcm
+scan,Ratio,LG0904F1496-m222-1,MR,540652889,201,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m222-1/00013496/00058658/04397112.dcm
+scan,Ratio,LG0904F1496-m224-1,MR,540311095,401,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m224-1/00013488/00058641/04396807.dcm
+scan,Ratio,LG0904F1496-m226-1,MR,540727061,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m226-1/00013502/00058670/04397340.dcm
+scan,Ratio,LG0904F1496-m241-1,MR,540729340,401,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m241-1/00013503/00058672/04397378.dcm
+scan,Ratio,LG0904F1496-m243-1,MR,541340264,501,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m243-1/00013520/00058721/04401903.dcm
+scan,Ratio,LG0904F1496-m256-1,MR,540302910,401,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m256-1/00013486/00058637/04396731.dcm
+scan,Ratio,LG0904F1496-m258-1,MR,540304749,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m258-1/00013489/00058643/04396845.dcm
+scan,Ratio,LG0904F1496-m263-1,MR,541417091,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m263-1/00013522/00058725/04401979.dcm
+scan,Ratio,LG0904F1496-m266-1,MR,541418360,601,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m266-1/00013524/00058729/04402055.dcm
+scan,Ratio,LG0904F1496-m271-1,MR,540307425,401,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m271-1/00013487/00058639/04396769.dcm
+scan,Ratio,LG0904F1496-m272-1,MR,540643615,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m272-1/00013493/00058651/04396997.dcm
+scan,Ratio,LG0904F1496-m281-1,MR,540639137,201,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m281-1/00013491/00058647/04396921.dcm
+scan,Ratio,LG0904F1496-m283-1,MR,540724932,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m283-1/00013501/00058668/04397302.dcm
+scan,Ratio,LG0904F1496-m285-1,MR,540641337,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m285-1/00013492/00058649/04396959.dcm
+scan,Ratio,LG0904F1496-m286-1,MR,540664538,201,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m286-1/00013500/00058666/04397264.dcm
+scan,Ratio,LG0904F1496-m290-1,MR,540662296,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m290-1/00013499/00058664/04397226.dcm
+scan,Ratio,LG0904F1496-m293-1,MR,540657753,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m293-1/00013498/00058662/04397188.dcm
+scan,Ratio,LG0904F1496-m303-1,MR,541330139,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m303-1/00013516/00058713/04401751.dcm
+scan,Ratio,LG0904F1496-m316-1,MR,540655102,401,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m316-1/00013497/00058660/04397150.dcm
+scan,Ratio,LG0904F1496-m322-1,MR,540646828,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m322-1/00013494/00058653/04397035.dcm
+scan,Ratio,LG0904F1496-m332-1,MR,540652282,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m332-1/00013495/00058656/04397074.dcm
+scan,Ratio,LG0904F1496-m344-1,MR,540300096,201,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_1/LG0904F1496-m344-1/00013485/00058635/04396693.dcm
+scan,Ratio,LG0904F1496-m226-2,MR,541414668,401,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_2/LG0904F1496-m226-2/00013521/00058723/04401941.dcm
+scan,Ratio,LG0904F1496-m243-2,MR,542116373,401,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_2/LG0904F1496-m243-2/00013563/00058817/04406748.dcm
+scan,Ratio,LG0904F1496-m256-2,MR,541427382,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_2/LG0904F1496-m256-2/00013525/00058731/04402093.dcm
+scan,Ratio,LG0904F1496-m258-2,MR,541424962,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_2/LG0904F1496-m258-2/00013523/00058727/04402017.dcm
+scan,Ratio,LG0904F1496-m266-2,MR,542111814,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_2/LG0904F1496-m266-2/00013564/00058819/04406786.dcm
+scan,Ratio,LG0904F1496-m271-2,MR,541333598,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_2/LG0904F1496-m271-2/00013517/00058715/04401789.dcm
+scan,Ratio,LG0904F1496-m285-2,MR,541434883,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_2/LG0904F1496-m285-2/00013527/00058735/04402169.dcm
+scan,Ratio,LG0904F1496-m303-2,MR,544362556,401,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_2/LG0904F1496-m303-2/00013668/00059040/04419320.dcm
+scan,Ratio,LG0904F1496-m243-3,MR,543600376,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_3/mouse 243/00013612/00058917/04413937.dcm
+scan,Ratio,LG0904F1496-m256-3,MR,542117285,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_3/mouse 256/00013562/00058815/04406710.dcm
+scan,Ratio,LG0904F1496-m258-3,MR,542122165,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_3/mouse 258/00013561/00058813/04406672.dcm
+scan,Ratio,LG0904F1496-m266-3,MR,543604040,301,TSE65_trig,ASP(16-008) ZAKJ2-3-Neuroendocrine Cancer,usable,DICOM,/imagery/Imaging_Session_3/mouse 266/00013613/00058919/04413975.dcm

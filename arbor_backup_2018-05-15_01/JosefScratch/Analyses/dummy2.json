@@ -1,0 +1,1 @@
+{"description": "", "inputs": [{"format": "string", "id": "input", "name": "input", "type": "string"}], "mode": "r", "name": "dummy2", "outputs": [{"format": "string", "id": "output", "name": "output", "type": "string"}], "script": "output <- paste(\"hello\", hello)"}
